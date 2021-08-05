@@ -15,11 +15,11 @@
 <h4>Principais conhecimentos adquiridos nesse projeto:</h4>
 
 <ul>
-  <li>- Componentes e repasse de propriedades</li>
-  <li>- Styled components com repasse de propriedades</li>
-  <li>- Typescript e suas tipagens</li>
-  <li>- Gerenciamento de estado</li>
-  <li>- Context API e criação de Hook</li>
+  <li>Componentes e repasse de propriedades</li>
+  <li>Styled components com repasse de propriedades</li>
+  <li>Typescript e suas tipagens</li>
+  <li>Gerenciamento de estado</li>
+  <li>Context API e criação de Hook</li>
 </ul>
 
 <h4>Clonar o projeto e instalar as dependências:</h4>
